@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-I developed a dynamic Power BI dashboard integrating data modelling, DAX calculations, and visualization techniques to monitor sales, profit, and customer behaviour, improving business insight generation. 
+# 📊 Sales Dashboard (Power BI Project)
+
+## 📌 Overview
+This project presents an interactive **Sales Dashboard** built using Power BI to analyse business performance across multiple dimensions such as sales, profit, customers, regions, and trends.  
+
+The dashboard helps stakeholders make **data-driven decisions** by providing clear insights into key business metrics and patterns.
