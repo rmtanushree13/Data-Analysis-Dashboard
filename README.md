@@ -56,7 +56,10 @@ Dashboard Interaction <a href="https://github.com/rmtanushree13/Data-Analysis-Da
 
 
 ## Dashboard
-<img width="985" height="1174" alt="sales dashboard ss" src="https://github.com/user-attachments/assets/484adb67-09c7-4971-b534-e03d8d1b5495" />
+
+https://github.com/user-attachments/assets/fb288e36-1586-4378-b0e4-c72edc939d0f
+
+
 
 ## 📈 Project Insights
 
